@@ -1,0 +1,88 @@
+body{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    background: radial-gradient(circle, rgb(3, 21, 73),black);
+       
+  font-family: "Buda", serif;
+  font-weight: 300;
+  font-style: normal;
+  padding-left: 50px;
+  font-size: 25px;
+
+  
+
+
+}
+
+a{
+    text-decoration: none;
+    color: blueviolet;
+}
+
+.name{
+    font-size: 60px;
+    text-align: center;
+}
+
+.summary{
+    font-size: 60px;
+}
+
+.goabaone{
+    float: left;
+    padding-right: 30px;
+    padding-bottom: 30px;
+}
+
+
+.div2{
+    clear: left;
+}
+
+.occupation{
+    font-size: 65px;
+    text-align: center;
+}
+
+#philosophy{
+    background-color: rgb(5, 22, 77);
+    border-radius: 10px;
+    
+}
+
+#fe{
+    text-align: end;
+}
+
+.others{
+    text-align: center;
+}
+
+
+#footer{
+    background-color: black;
+    
+}
+
+li{
+    list-style: none;
+}
+
+.container1{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+
+    font-size: 20px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    color: rgb(43, 43, 48);
+}
+
+.nav-link{
+    color: aqua;
+}
+
+.p{
+    border-radius: 50%;
+}
